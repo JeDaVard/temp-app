@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  position: relative;
 }
 
 .App-logo {
@@ -9,6 +10,15 @@
 
 .Image {
   width: 100%;
+}
+
+.Dates {
+  position: absolute;
+  top: 11.4%;
+  left: 13%;
+  font-weight: 400;
+  font-size: 28px;
+  color: white;
 }
 
 @media (prefers-reduced-motion: no-preference) {
