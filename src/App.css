@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   position: relative;
+  overflow: hidden;
 }
 
 .App-logo {
@@ -10,6 +11,7 @@
 
 .Image {
   width: 100%;
+  overflow: hidden;
 }
 
 .Dates {
